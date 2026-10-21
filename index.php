@@ -622,26 +622,7 @@
             <p>Pilih jalur belajar yang sesuai dengan kebutuhanmu hari ini.</p>
         </div>
         <div class="modul-grid">
-            <!-- Modul DDTKJ -->
-            <div class="glass-card modul-card">
-                <div class="modul-inner">
-                    <div class="modul-tag">Jaringan Komputer</div>
-                    <div class="modul-icon-wrap"><i class="fa-solid fa-network-wired"></i></div>
-                    <h3>Dasar Jaringan (DDTKJ)</h3>
-                    <p>Pelajari fondasi teknologi jaringan mulai dari subnetting, model TCP/IP, layanan DHCP &amp; DNS, media transmisi, jaringan nirkabel, hingga optik dan satelit.</p>
-                    <a href="ddtkj/ddtkj.php" class="modul-link">Buka Modul <i class="fa-solid fa-arrow-right"></i></a>
-                </div>
-            </div>
-            <!-- Modul Keamanan -->
-            <div class="glass-card modul-card">
-                <div class="modul-inner">
-                    <div class="modul-tag teal">Keamanan Siber</div>
-                    <div class="modul-icon-wrap teal"><i class="fa-solid fa-shield-halved"></i></div>
-                    <h3>Keamanan Siber Dasar</h3>
-                    <p>Pahami prinsip CIA Triad, kenali ancaman siber seperti Phishing dan Malware, serta pelajari kebiasaan digital yang aman melalui praktik cyberhygiene.</p>
-                    <a href="keamanan jaringan/keamanan.php" class="modul-link">Buka Modul <i class="fa-solid fa-arrow-right"></i></a>
-                </div>
-            </div>
+
             <!-- Modul Informatika -->
             <div class="glass-card modul-card">
                 <div class="modul-inner">
